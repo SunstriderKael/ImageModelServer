@@ -3,7 +3,7 @@ Django==3.0.6
 future==0.18.2
 numpy==1.18.4
 opencv-python==4.0.0.21
-Pillow==7.1.2
+Pillow==8.1.1
 pyclipper==1.1.0.post3
 pytz==2020.1
 Shapely==1.7.0
